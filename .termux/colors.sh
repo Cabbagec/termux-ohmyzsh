@@ -5,7 +5,7 @@ count=0
 
 echo -e "The default color theme is Tango.\nYou can choose another one from the list below";
 
-for colors in "$COLORS_DIR"/*; do
+for colors in $COLORS_DIR/*; do
   colors_name[count]=$( echo $colors | awk -F'/' '{print $NF}' )
   echo -e "($count) ${colors_name[count]}";
   count=$(( $count + 1 ));
