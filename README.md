@@ -119,3 +119,8 @@ For better text input experience, swipe left on the `VolUp+Q` key bar.
 Tango color scheme + agnoster oh-my-zsh theme + Ubuntu font:
 
 ![](./termux-ohmyzsh.png)
+
+- - -
+
+## Sponsors 
+[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
